@@ -30,6 +30,11 @@ class Collector(set):
     Class in charge of collecting movie reviews from
     the IMDB data set from https://ai.stanford.edu/~amaas/data/sentiment/
 
+    Warnings:
+        Download & Unzip the data before calling the script.
+        https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+        The `aclImdb_v1` folder should be unzipped at root location.
+
     Notes:
         A set will eliminate duplicated reviews
     """
