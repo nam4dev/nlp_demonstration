@@ -16,7 +16,7 @@ Following topics are introduced:
 - Chatbot Example ([Github repository](https://github.com/nam4dev/chatbot_rasa_nlu_presentation))
 - To go further
     
-One can find the presentation slides in the NLP_with_Python.odp file.
+One can find the presentation slides in the NLP_with_Python.{odp|pdf} files.
 
 Training/testing files are needed for the Sentiment Classifier Jupyter notebook to work properly.
 
